@@ -1,5 +1,3 @@
-Here is a clean README.md content (~200 words) ready to paste into GitHub:
-
 YOLOv26 Optimization with Slicing-Aided Hyper Inference (SAHI)
 
 This repository contains the official implementation of our paper:
