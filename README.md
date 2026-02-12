@@ -1,10 +1,12 @@
-YOLOv26 Optimization with Slicing-Aided Hyper Inference (SAHI)
+**YOLOv26 Optimization with Slicing-Aided Hyper Inference (SAHI)**
 
 This repository contains the official implementation of our paper:
 
 “YOLO26 Optimization with Slicing-Aided Hyper Inference for Small-Object Detection and Segmentation in Complex Green Fruit Environments.”
+<img width="6850" height="9500" alt="core diagram" src="https://github.com/user-attachments/assets/e46ab788-c10a-406d-b9e6-2e5f2cbdd182" />
+**Figure showing architectural diagram of YOLO26 + SAHI Inference based small object detection**
 
-📌 Overview
+📌** Overview**
 
 Small-object detection in natural environments remains challenging, particularly under green-on-green camouflage where targets occupy few pixels and exhibit low contrast. This study presents the first implementation and optimization of YOLOv26 on a custom real-world orchard dataset, focusing on fine-grained anatomical segmentation of:
 
@@ -13,10 +15,12 @@ Calyx
 Fruitlet
 
 Peduncle (smallest and most challenging class)
+![IMG_1752_JPEG rf 97c2208fa26bbf6e211959c6ab283f20](https://github.com/user-attachments/assets/500bc65a-dc98-436d-a240-432888b6a74e)
+**Figure showing the early stage green fruitlet against the green and complex background **
 
 We apply Slicing-Aided Hyper Inference (SAHI) as an inference-stage enhancement without modifying the core network architecture.
 
-🚀 Key Results
+🚀 **Key Results**
 
 Overall detection mAP@50:95 improved from 0.363 → 0.414
 
@@ -28,10 +32,9 @@ Mask mAP@50:95 improved by 30.85%
 
 Nano, small, and medium models retain near real-time feasibility.
 
-📂 Repository Contents
+📂** Repository Contents**
 
 Training scripts for YOLO26 and SAHI inference pipeline is available here : https://github.com/rnjnspkt/YOLO26-Optimization-with-Slicing-Aided-Hyper-Inference-for-Small-Object-Detection-and-Segmentation/blob/main/yolo26smallobject.ipynb 
-
 
 
 Pretrained YOLOv26-nano model is available here: https://github.com/rnjnspkt/YOLO26-Optimization-with-Slicing-Aided-Hyper-Inference-for-Small-Object-Detection-and-Segmentation/blob/main/best.pt 
