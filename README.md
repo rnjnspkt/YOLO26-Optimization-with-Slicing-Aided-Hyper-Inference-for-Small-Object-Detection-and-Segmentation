@@ -30,7 +30,7 @@ Nano, small, and medium models retain near real-time feasibility.
 
 📂 Repository Contents
 
-Training scripts
+Training scripts available here : https://github.com/rnjnspkt/YOLO26-Optimization-with-Slicing-Aided-Hyper-Inference-for-Small-Object-Detection-and-Segmentation/blob/main/yolo26smallobject.ipynb 
 
 SAHI inference pipeline
 
