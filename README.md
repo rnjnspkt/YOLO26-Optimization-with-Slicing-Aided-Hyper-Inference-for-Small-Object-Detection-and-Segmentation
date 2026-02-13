@@ -15,7 +15,8 @@ Calyx
 Fruitlet
 
 Peduncle (smallest and most challenging class)
-![IMG_1752_JPEG rf 97c2208fa26bbf6e211959c6ab283f20](https://github.com/user-attachments/assets/500bc65a-dc98-436d-a240-432888b6a74e)
+<img width="565" height="763" alt="image (1)" src="https://github.com/user-attachments/assets/73289147-df32-4a00-bc04-fa7d4cd65477" />
+
 **Figure showing the early stage green fruitlet against the green and complex background **
 
 We apply Slicing-Aided Hyper Inference (SAHI) as an inference-stage enhancement without modifying the core network architecture.
